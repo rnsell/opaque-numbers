@@ -1,0 +1,16 @@
+{
+  "name": "opaque-numbers",
+  "version": "1.0.0",
+  "description": "This package has a number of opaque utility functions for numbers",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "npm run build",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
